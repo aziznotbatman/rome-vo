@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /online/wp-admin/
+Allow: /online/wp-admin/admin-ajax.php
+
+Sitemap: https://www.cinemanuovosacher.it/wp-sitemap.xml
+
+Disallow: */wp-content/podscache/*

@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang=""><head><meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="robots" content="noindex,nofollow">
+<meta name="color-scheme" content="light dark">
+<link rel="author" href="https://www.niksoggia.it/">
+<title>404 - Oggetto non trovato!</title>
+<style type="text/css">
+:root {
+	--color-bod-fg: #eee;
+	--color-bod-bg: #fff;
+	--color-log-fg: #f40;
+	--color-txt-fg: #234;
+	--color-txt-bg: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOTMiIGhlaWdodD0iMTY2IiB2aWV3Qm94PSIwIDAgMTkzIDE2NiI+CjxkZWZzPjxmaWx0ZXIgaWQ9ImEiIHdpZHRoPSIxLjA1IiBoZWlnaHQ9IjEuMDUiIHg9Ii0uMDI1IiB5PSItLjAyNSI+Cgk8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSIyIi8+CjwvZmlsdGVyPjwvZGVmcz4KPHBhdGggZmlsbC1vcGFjaXR5PSIuMiIgZD0iTTQgNHYzN2wxNyAxN3Y3NmgxMzlsMjggMjhWNHoiIGZpbHRlcj0idXJsKCNhKSIvPgo8cGF0aCBmaWxsPSIjZWVlIiBkPSJNMCAwdjM3bDE3IDE3djc2aDEzOWwyOCAyOFYweiIvPgo8L3N2Zz4K");
+}
+@media (prefers-color-scheme: dark) {
+	:root {
+		--color-bod-fg: #000;
+		--color-bod-bg: #222;
+		--color-log-fg: #f80;
+		--color-txt-fg: #aaa;
+		--color-txt-bg: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOTMiIGhlaWdodD0iMTY2IiB2aWV3Qm94PSIwIDAgMTkzIDE2NiI+CjxkZWZzPjxmaWx0ZXIgaWQ9ImEiIHdpZHRoPSIxLjA1IiBoZWlnaHQ9IjEuMDUiIHg9Ii0uMDI1IiB5PSItLjAyNSI+Cgk8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSIyIi8+CjwvZmlsdGVyPjwvZGVmcz4KPHBhdGggZmlsbC1vcGFjaXR5PSIuMiIgZD0iTTQgNHYzN2wxNyAxN3Y3NmgxMzlsMjggMjhWNHoiIGZpbHRlcj0idXJsKCNhKSIvPgo8cGF0aCBmaWxsPSIjMjIyIiBkPSJNMCAwdjM3bDE3IDE3djc2aDEzOWwyOCAyOFYweiIvPgo8L3N2Zz4K");
+	}
+}
+body {
+	border: 0px;
+	margin: 0px;
+	padding: 10% 30% 0% 30%;
+	font-family: sans-serif;
+	color: var(--color-bod-fg);
+	background-color: var(--color-bod-bg);
+	background-repeat: no-repeat;
+	background-position: center top; 
+	background-size: 50% auto;
+	background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2Ij4KPGcgZmlsbD0iIzIzNCI+Cgk8Y2lyY2xlIGN4PSI2MyIgY3k9IjIzIiByPSIzIi8+Cgk8Y2lyY2xlIGN4PSI4NiIgY3k9IjIzIiByPSI3Ii8+Cgk8Y2lyY2xlIGN4PSI5NCIgY3k9IjEzIiByPSIxIi8+Cgk8Y2lyY2xlIGN4PSIxMDAiIGN5PSIyIiByPSIyIi8+CgoJPGNpcmNsZSBjeD0iNTEiIGN5PSIxOTciIHI9IjEiLz4KCTxjaXJjbGUgY3g9IjYxIiBjeT0iMjQzIiByPSIyIi8+Cgk8Y2lyY2xlIGN4PSI2OSIgY3k9IjIyMSIgcj0iMyIvPgoJPGNpcmNsZSBjeD0iOTAiIGN5PSIyMDEiIHI9IjkiLz4KCTxjaXJjbGUgY3g9Ijk5IiBjeT0iMjE5IiByPSI1Ii8+Cgk8Y2lyY2xlIGN4PSIxMjIiIGN5PSIyMTIiIHI9IjIiLz4KCgk8Y2lyY2xlIGN4PSIyNTQiIGN5PSIxNjciIHI9IjIiLz4KCTxjaXJjbGUgY3g9IjI0MyIgY3k9IjE1NyIgcj0iMyIvPgoJPGNpcmNsZSBjeD0iMjUzIiBjeT0iMTQ5IiByPSIxIi8+CjwvZz4KPGNpcmNsZSBjeD0iNzEiIGN5PSIxMDQiIHI9IjcxIiBmaWxsPSIjMDQ0IiBmaWxsLW9wYWNpdHk9Ii43NSIvPgo8Y2lyY2xlIGN4PSIxNTIiIGN5PSIxMDYiIHI9Ijk1IiBmaWxsPSIjMjgwIiBmaWxsLW9wYWNpdHk9Ii41Ii8+CjxjaXJjbGUgY3g9IjE4OSIgY3k9IjIwMSIgcj0iNTUiIGZpbGw9IiM3YTAiIGZpbGwtb3BhY2l0eT0iLjc1Ii8+Cjwvc3ZnPgo=");
+}
+@media (max-width: 1600px) {
+	body {
+		padding: 10% 20% 0% 20%;
+		background-size: 80% auto;
+	}
+}
+@media (max-width: 1200px) {
+	body {
+		padding: 10% 0% 0% 4%;
+		background-size: 100% auto;
+	}
+}
+a {
+	color: inherit;
+	background-color: transparent;
+}
+a img {
+	border: 0px;
+}
+h1, h2, h3 {
+	border: 0px;
+	margin: 0px;
+	margin-bottom: 0.5em;
+	padding: 0px;
+	font-style: normal;
+	font-weight: normal;
+	text-align: left;
+}
+img.center {
+	margin: 0px auto 0px auto;
+	display: block;
+}
+p.center {
+	color: var(--color-bod-fg);
+	text-align: center;
+}
+p.center a {
+	text-decoration: none;
+}
+#nik {
+	border: 0px;
+	border-top: 1px dotted transparent;
+	margin: 0px;
+	padding: 0px;
+	position: relative;
+	width: 100%;
+	min-height: 80vh;
+	color: var(--color-bod-bg);
+	background-color: transparent;
+	background-repeat: no-repeat;
+	background-position: center top; 
+	background-size: 100% auto;
+	background-image: var(--color-txt-bg);
+}
+.logo {
+	border: 0px;
+	margin: 5% 0% 0% 5%;
+	padding: 0px;
+	font-size: 2.3em;
+	float: left;
+	color: var(--color-log-fg);
+	background-color: transparent;
+}
+.text {
+	border: 0px;
+	margin: 5% 12% 0% 15%;
+	padding: 0px;
+	text-align: justify;
+	color: var(--color-txt-fg);
+	background-color: transparent;
+}
+</style>
+</head><body><div id="nik">
+<div class="logo">&#x26a0;</div>
+<div class="text">
+<h1><b>404</b> Oggetto non trovato!</h1>
+
+
+    L'URL richiesto non esiste su questo server.
+
+  
+
+    Se hai scritto l'URL a mano, per favore controlla che
+    non ci siano errori.
+
+  
+
+<p><i>Se pensi che questo sia un errore del server, per favore contatta il 
+<a href="mailto:info@creaweb.it">webmaster</a>.
+</i></p>
+<br>
+<p class="center"><a href="/" target="_top"><img class="center" width="128" height="110" alt="house" title="Home" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjEyOCIgaGVpZ2h0PSIxMTAiIHZpZXdCb3g9IjAgMCAxMjggMTEwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxnIHN0eWxlPSJvcGFjaXR5OjAuNSI+Cgk8cGF0aCBkPSJtMCA2MyA5IDkgNTUtNTUgNTUgNTUgOS05LTE4LTE4di00MGgtMjB2MjBsLTI1LTI1eiIvPgoJPHBhdGggZD0ibTE4IDc1djM1aDM2di0yNWgyMHYyNWgzNnYtMzVsLTQ2LTQ2eiIvPgo8L2c+Cjwvc3ZnPgo=">www.nvrcinema.it</a></p>
+</div>
+</div></body>
+<!-- nik-drip 1.0 --></html>
+

@@ -1,0 +1,7 @@
+# Manual corrections, applied after the classifier. First matching rule wins.
+# Fields: cinema (slug), title (case-insensitive substring of the raw title), sourceSessionId,
+#         set: vo | dubbed | unknown, note (why; required).
+# Example:
+#   - { cinema: barberini, title: "pink floyd", set: vo, note: "Concert film, English audio; source says Italiano" }
+overrides:
+  - { cinema: barberini, title: "pink floyd", set: vo, note: "Concert film with original English audio; 18tickets says Italiano" }

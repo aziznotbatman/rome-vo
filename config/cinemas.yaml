@@ -1,0 +1,101 @@
+# Rome cinemas, grouped by data source. See docs/sources.md for how each source works.
+# lat/lon were geocoded from the address (scripts/geocode.ts); fix by hand if a pin is off.
+# `match` = how the cinema is named inside a multi-cinema feed.
+
+sources:
+  - id: uci
+    adapter: uci
+    cinemas:
+      - { slug: uci-porta-di-roma, name: UCI Porta di Roma, area: Bufalotta, match: uci-cinemas-porta-di-roma-roma, address: "Via Alberto Lionello 201, Roma", lat: 41.971355, lon: 12.5414713 }
+      - { slug: uci-roma-est, name: UCI Roma Est, area: Lunghezza, match: uci-cinemas-romaest-roma, address: "Via Collatina 858, Roma", lat: 41.9159171, lon: 12.6617884 }
+      - { slug: uci-parco-leonardo, name: UCI Parco Leonardo, area: Fiumicino, match: uci-cinemas-parco-leonardo-roma, address: "Viale Bramante 29, Fiumicino", lat: 41.7983211, lon: 12.2954392 }
+      - { slug: uci-luxe-maximo, name: UCI Luxe Maximo, area: Ostiense, match: uci-luxe-maximo, address: "Via Laurentina 865, Roma", lat: 41.8076205, lon: 12.4851106 }
+
+  - id: circuito
+    adapter: eighteen-tickets
+    host: ccroma.18tickets.it
+    cinemas:
+      - { slug: quattro-fontane, name: Quattro Fontane, area: Centro, match: Quattro Fontane, address: "Via delle Quattro Fontane 23, Roma", lat: 41.901327, lon: 12.491998 }
+      - { slug: eurcine, name: Eurcine, area: EUR, match: Eurcine, address: "Via Liszt 32, Roma", lat: 41.833877, lon: 12.468472 }
+      - { slug: giulio-cesare, name: Giulio Cesare, area: Prati, match: Giulio Cesare, address: "Viale Giulio Cesare 229, Roma", lat: 41.90971, lon: 12.458715 }
+      - { slug: nuovo-olimpia, name: Nuovo Olimpia, area: Centro, match: Nuovo Olimpia, address: "Via in Lucina 16, Roma", lat: 41.902834, lon: 12.479039 }
+
+  - id: barberini
+    adapter: eighteen-tickets
+    host: cinema.barberini.18tickets.it
+    cinemas:
+      - { slug: barberini, name: Cinema Barberini, area: Centro, match: Cinema Barberini, address: "Piazza Barberini 24, Roma", lat: 41.903619, lon: 12.489194 }
+
+  - id: alhambra
+    adapter: eighteen-tickets
+    host: alhambra.barberini.18tickets.it
+    cinemas:
+      - { slug: alhambra, name: Multisala Alhambra, area: Aurelio, match: Multisala Alhambra, address: "Via Pier delle Vigne 4, Roma", lat: 41.900404, lon: 12.427464 }
+
+  - id: lux
+    adapter: eighteen-tickets
+    host: lux.cdr.18tickets.it
+    cinemas:
+      - { slug: lux, name: Multisala Lux, area: Trieste, match: Multisala Lux Roma, address: "Via Massaciuccoli 31, Roma", lat: 41.926421, lon: 12.514744 }
+
+  - id: odeon
+    adapter: eighteen-tickets
+    host: odeon.cdr.18tickets.it
+    cinemas:
+      - { slug: odeon, name: Odeon Multiscreen, area: Ponte Milvio, match: Odeon Multiscreen, address: "Piazza Stefano Jacini 22, Roma", lat: 41.949418, lon: 12.465907 }
+
+  - id: intrastevere
+    adapter: eighteen-tickets
+    host: intrastevere.cdr.18tickets.it
+    cinemas:
+      - { slug: intrastevere, name: Intrastevere, area: Trastevere, match: Intrastevere, address: "Vicolo Moroni 3, Roma", lat: 41.892153, lon: 12.468573 }
+
+  - id: tibur
+    adapter: eighteen-tickets
+    host: tibur.cdr.18tickets.it
+    cinemas:
+      - { slug: tibur, name: Cinema Tibur, area: San Lorenzo, match: Cinema Tibur, address: "Via degli Etruschi 36, Roma", lat: 41.897322, lon: 12.515008 }
+
+  - id: greenwich
+    adapter: eighteen-tickets
+    host: green.multisalagreenwichroma.com
+    cinemas:
+      - { slug: greenwich, name: Multisala Greenwich, area: Testaccio, match: Multisala Greenwich, address: "Via Giovanni Battista Bodoni 59, Roma", lat: 41.878859, lon: 12.47411 }
+
+  - id: mignon
+    adapter: eighteen-tickets
+    host: mignon.multisalagreenwichroma.com
+    cinemas:
+      - { slug: mignon, name: Cinema Mignon, area: Trieste, match: Cinema Mignon, address: "Via Viterbo 11, Roma", lat: 41.911703, lon: 12.498366 }
+
+  - id: thespace
+    adapter: thespace
+    cinemas:
+      - { slug: space-moderno, name: The Space Moderno, area: Termini, match: "1021", address: "Piazza della Repubblica 45, Roma", lat: 41.902004, lon: 12.496418 }
+      - { slug: space-parco-de-medici, name: "The Space Parco de' Medici", area: Magliana, match: "1025", address: "Viale Salvatore Rebecchini 1, Roma", lat: 41.8141, lon: 12.398605 }
+
+  - id: troisi
+    adapter: troisi
+    cinemas:
+      - { slug: troisi, name: Cinema Troisi, area: Trastevere, match: Cinema Troisi, address: "Via Girolamo Induno 1, Roma", lat: 41.884946, lon: 12.471637 }
+
+  - id: piccoli
+    adapter: piccoli
+    cinemas:
+      - { slug: piccoli, name: Cinema dei Piccoli, area: Villa Borghese, match: Cinema dei Piccoli, address: "Viale della Pineta 15, Roma", lat: 41.910972, lon: 12.487953 }
+
+  - id: farnese
+    adapter: farnese
+    cinemas:
+      - { slug: farnese, name: Cinema Farnese, area: Campo de' Fiori, match: Farnese, address: "Campo de' Fiori 56, Roma", lat: 41.895577, lon: 12.472159 }
+
+  - id: casadelcinema
+    adapter: casadelcinema
+    cinemas:
+      - { slug: casa-del-cinema, name: Casa del Cinema, area: Villa Borghese, match: Casa del Cinema, address: "Largo Marcello Mastroianni 1, Roma", lat: 41.91088, lon: 12.487702 }
+
+  - id: nvr
+    adapter: nvr
+    cinemas:
+      - { slug: adriano, name: Cinema Adriano, area: Prati, match: adriano, address: "Piazza Cavour 22, Roma", lat: 41.906017, lon: 12.469705 }
+      - { slug: atlantic, name: Cinema Atlantic, area: Tuscolano, match: atlantic, address: "Via Tuscolana 745, Roma", lat: 41.860781, lon: 12.555606 }

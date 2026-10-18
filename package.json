@@ -1,0 +1,30 @@
+{
+  "name": "rome-vo",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@9.15.0",
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit -p .",
+    "migrate": "tsx --env-file=.env scripts/migrate.ts",
+    "scrape": "tsx --env-file=.env scripts/scrape.ts",
+    "scrape:near": "tsx --env-file=.env scripts/scrape.ts --days 2",
+    "admin": "tsx --env-file=.env scripts/admin.ts",
+    "classifier:report": "tsx scripts/classifier-report.ts",
+    "bot": "tsx --env-file=.env apps/bot/src/index.ts"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "grammy": "^1.46.0",
+    "pg": "^8.23.1",
+    "yaml": "^2.9.1",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "20",
+    "@types/pg": "^8.23.1",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.5"
+  }
+}

@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /wp_admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://cinematroisi.it/sitemap_index.xml

@@ -1,0 +1,256 @@
+# Hand-reviewed labels: <cinema>|<raw title>|<structured language or time tag> → vo | dubbed
+# "dubbed" means Italian audio (dubbed foreign film or Italian original).
+labels:
+  "alhambra|CARLO ACUTIS. IL GIOVANE SANTO|": dubbed
+  "alhambra|JE SO' PAZZO|": dubbed
+  "alhambra|L'ESTRANEA|": dubbed
+  "alhambra|LA CITTA' DEI VIVI|": dubbed
+  "alhambra|NAZA|": dubbed
+  "alhambra|ZUSTISSIA|": dubbed
+  "barberini|DIGGER - V. O.|": vo
+  "barberini|I DIAVOLI (THE DEVILS)|": vo
+  "barberini|JE SO' PAZZO|": dubbed
+  "barberini|L'ESTRANEA|": dubbed
+  "barberini|PINK FLOYD - THE DARK SIDE OF THE MOON|": vo
+  "barberini|PRIMETIME - V. O. - FILM+APERITIVO|": vo
+  "barberini|PRIMETIME - V. O.|": vo
+  "barberini|SE AMI QUALCUNO DILLO|": dubbed
+  "barberini|THE SOCIAL - V.O|": vo
+  "barberini|ZUSTISSIA|": dubbed
+  "eurcine|DIGGER|": dubbed
+  "eurcine|IL TEMPO DI ANNE|": dubbed
+  "eurcine|JE SO' PAZZO|": dubbed
+  "eurcine|L'ESTRANEA|": dubbed
+  "eurcine|NAZA|": dubbed
+  "eurcine|NESSUN DOLORE|": dubbed
+  "eurcine|PRIMETIME|": dubbed
+  "eurcine|SE AMI QUALCUNO DILLO|": dubbed
+  "eurcine|THE INVITE – IL PIACERE È TUTTO NOSTRO|": dubbed
+  "eurcine|ZUSTÌSSIA|": dubbed
+  "farnese|Calle Málaga|ita": dubbed
+  "farnese|Calle Málaga|vos ita": vo
+  "farnese|DIGGER dal 1 ottobre|vos ita": vo
+  "farnese|I DIAVOLI 19 – 20 – 21 ottobre|vos ita": vo
+  "farnese|IL TEMPO E L’ACQUA|vos ita": vo
+  "farnese|L’ESTRANEA|ita": dubbed
+  "farnese|MIO ZIO JENS|vos ita": vo
+  "farnese|ZUSTISSIA|ita": dubbed
+  "giulio-cesare|DIGGER - V.O.S.|": vo
+  "giulio-cesare|DIGGER|": dubbed
+  "giulio-cesare|FATHERLAND - V.O.S.|": vo
+  "giulio-cesare|FATHERLAND|": dubbed
+  "giulio-cesare|L'ESTRANEA|": dubbed
+  "giulio-cesare|NAZA|": dubbed
+  "giulio-cesare|SERPENTI|": dubbed
+  "greenwich|TRAINSPOTTING (RIED.) - V. O.|": vo
+  "greenwich|TRAINSPOTTING (RIED.)|": dubbed
+  "lux|CARLO ACUTIS. IL GIOVANE SANTO|": dubbed
+  "lux|HEART OF THE BEAST - NEL PROFONDO SELVAGGIO|": dubbed
+  "lux|I DIAVOLI - ORIGINAL LANGUAGE|": vo
+  "lux|JE SO' PAZZO|": dubbed
+  "lux|L'ESTRANEA|": dubbed
+  "lux|NAZA|": dubbed
+  "lux|PRIMETIME - ORIGINAL LANGUAGE|": vo
+  "lux|PRIMETIME|": dubbed
+  "lux|SE AMI QUALCUNO DILLO|": dubbed
+  "lux|SOTTO A CHI TOCCA|": dubbed
+  "lux|STREET FIGHTER|": dubbed
+  "lux|THE INVITE – IL PIACERE È TUTTO NOSTRO|": dubbed
+  "lux|TRAINSPOTTING - ORIGINAL LANGUAGE|": vo
+  "lux|TRAINSPOTTING|": dubbed
+  "lux|VERITY|": dubbed
+  "lux|WHALEFALL: NELLA BALENA|": dubbed
+  "lux|ZUSTISSIA|": dubbed
+  "mignon|DIGGER|": dubbed
+  "mignon|L'ESTRANEA|": dubbed
+  "mignon|RITORNO A BUENOS AIRES|": dubbed
+  "mignon|SERPENTI|": dubbed
+  "nuovo-olimpia|POSSIBLE LOVE - V.O.S.|": vo
+  "odeon|CARLO ACUTIS. IL GIOVANE SANTO|": dubbed
+  "odeon|JE SO' PAZZO|": dubbed
+  "odeon|L'ESTRANEA|": dubbed
+  "odeon|PRIMETIME|": dubbed
+  "odeon|SE AMI QUALCUNO DILLO|": dubbed
+  "odeon|TRAINSPOTTING|": dubbed
+  "piccoli|I racconti del giardino incantato|": dubbed
+  "piccoli|La Bambola - La Poupée|": vo
+  "piccoli|Paw Patrol - Missione Dinosauri|": dubbed
+  "piccoli|Un giorno senza donne|": vo
+  "quattro-fontane|BALCANICA|": dubbed
+  "quattro-fontane|FATHERLAND - V.O.S.|": vo
+  "quattro-fontane|FATHERLAND|": dubbed
+  "quattro-fontane|IL TEMPO DI ANNE - V.O.S.|": vo
+  "quattro-fontane|IL TEMPO DI ANNE|": dubbed
+  "quattro-fontane|NESSUN DOLORE|": dubbed
+  "quattro-fontane|UNA STORIA|": dubbed
+  "thespace|AVENGERS: ENDGAME EXTRA|ITALIANO": dubbed
+  "thespace|CARLO ACUTIS - IL GIOVANE SANTO|ITALIANO": dubbed
+  "thespace|CLAYFACE|LINGUA ORIGINALE": vo
+  "thespace|COYOTE VS ACME|ITALIANO": dubbed
+  "thespace|DIGGER|ITALIANO": dubbed
+  "thespace|FATHERLAND|ITALIANO": dubbed
+  "thespace|FRANKIE E LE CREATURE DIMENTICATE|ITALIANO": dubbed
+  "thespace|HEART OF THE BEAST - NEL PROFONDO SELVAGGIO|ITALIANO": dubbed
+  "thespace|IL TEMPO DI ANNE|ITALIANO": dubbed
+  "thespace|JE SO' PAZZO|ITALIANO": dubbed
+  "thespace|JUMBO - LA VOCE DI DON|ITALIANO": dubbed
+  "thespace|KLARA E IL SOLE|ITALIANO": dubbed
+  "thespace|L'ALBERO DI MOLTO LONTANO|ITALIANO": dubbed
+  "thespace|L'ESTRANEA|ITALIANO": dubbed
+  "thespace|L'ISOLA DEI RICORDI|ITALIANO": dubbed
+  "thespace|L'ULTIMA MISSIONE: PROJECT HAIL MARY|ITALIANO": dubbed
+  "thespace|MAMMINA|ITALIANO": dubbed
+  "thespace|NAZA|ITALIANO": dubbed
+  "thespace|PRIMETIME|ITALIANO": dubbed
+  "thespace|PRIMETIME|LINGUA ORIGINALE": vo
+  "thespace|RAGIONE E SENTIMENTO|ITALIANO": dubbed
+  "thespace|RESIDENT EVIL|ITALIANO": dubbed
+  "thespace|RIDER|ITALIANO": dubbed
+  "thespace|SE AMI QUALCUNO DILLO|ITALIANO": dubbed
+  "thespace|STREET FIGHTER|ITALIANO": dubbed
+  "thespace|SUPER MARIO GALAXY - IL FILM|ITALIANO": dubbed
+  "thespace|THE SOCIAL: IL PREZZO DELLA VERITÀ|ITALIANO": dubbed
+  "thespace|TRAINSPOTTING - 30MO ANNIVERSARIO|ITALIANO": dubbed
+  "thespace|VERITY|ITALIANO": dubbed
+  "thespace|WHALEFALL - NELLA BALENA|ITALIANO": dubbed
+  "thespace|WILDWOOD: I SEGRETI DEL BOSCO PROIBITO|ITALIANO": dubbed
+  "thespace|ZUSTISSIA|ITALIANO": dubbed
+  "troisi|Digger|": vo
+  "troisi|Era|": dubbed
+  "troisi|Essi vivono |": vo
+  "troisi|Fatherland - VOS (CINEMINI)|": vo
+  "troisi|Fatherland|": vo
+  "troisi|Ganja & Hess|": vo
+  "troisi|I DIAVOLI (THE DEVILS) - VOS 01:00|": vo
+  "troisi|I DIAVOLI (THE DEVILS) |": vo
+  "troisi|I DIAVOLI (THE DEVILS)|": vo
+  "troisi|Il canto di Alina|": dubbed
+  "troisi|Il dottor Stranamore|": vo
+  "troisi|L'ESTRANEA|": dubbed
+  "troisi|L'estranea (CINEMINI)|": dubbed
+  "troisi|L'estranea|": dubbed
+  "troisi|LA COMMARE SECCA|": dubbed
+  "troisi|LILO & STITCH|": dubbed
+  "troisi|La torta in cielo|": dubbed
+  "troisi|Making Marie Antoinette|": vo
+  "troisi|NAZA|": vo
+  "troisi|Near Dark|": vo
+  "troisi|ONLY GOD FORGIVES|": vo
+  "troisi|Pocahontas|": dubbed
+  "troisi|Prima della rivoluzione|": dubbed
+  "troisi|RIDER|": dubbed
+  "troisi|Stress da vampiro|": vo
+  "troisi|The Addiction - Vampiri a New York|": vo
+  "troisi|The Dreamers - I Sognatori|": vo
+  "troisi|Thirst|": vo
+  "troisi|Trainspotting|": vo
+  "troisi|VALHALLA RISING|": vo
+  "troisi|Wild Horse Nine|": vo
+  "uci|Avengers: Endgame Extra (Infinity Vision)|ITA": dubbed
+  "uci|Carlo Acutis - Il giovane santo C.A.|ITA": dubbed
+  "uci|Digger|ITA": dubbed
+  "uci|Fatherland|ITA": dubbed
+  "uci|Frankie e le creature dimenticate|ITA": dubbed
+  "uci|Heart of the Beast|ITA": dubbed
+  "uci|Je so’ pazzo|ITA": dubbed
+  "uci|Jumbo - La voce di Don|ITA": dubbed
+  "uci|L'estranea|ITA": dubbed
+  "uci|L'isola dei ricordi|ITA": dubbed
+  "uci|L’albero di molto lontano|ITA": dubbed
+  "uci|Mammina|ITA": dubbed
+  "uci|Naza C.A.|ITA": dubbed
+  "uci|Oceania - Live action|ITA": dubbed
+  "uci|Oceania|DSA": dubbed
+  "uci|Oceania|ITA": dubbed
+  "uci|Odissea|ITA": dubbed
+  "uci|Primetime|ITA": dubbed
+  "uci|Se ami qualcuno dillo|ITA": dubbed
+  "uci|Street Fighter|EN": vo
+  "uci|Street Fighter|ITA": dubbed
+  "uci|The Social: il prezzo della verità|ITA": dubbed
+  "uci|Trainspotting C.A.|ITA": dubbed
+  "uci|Verity|ITA": dubbed
+  "uci|Whalefall|ITA": dubbed
+  "uci|Zustissia|ITA": dubbed
+  "adriano|BLADE RUNNER - FINAL CUT 4K | ORIGINAL VERSION|": vo
+  "adriano|CARLO ACUTIS. IL GIOVANE SANTO|": dubbed
+  "adriano|DIGGER [2026]|": dubbed
+  "adriano|FRANKIE E LE CREATURE DIMENTICATE|": dubbed
+  "adriano|HEART OF THE BEAST - NEL PROFONDO SELVAGGIO|": dubbed
+  "adriano|I DIAVOLI | FILM IN INGLESE - V.M.18|": vo
+  "adriano|JE SÒ PAZZO|": dubbed
+  "adriano|L'ALBERO DI MOLTO LONTANO|": dubbed
+  "adriano|L'ESTRANEA|": dubbed
+  "adriano|L'ISOLA DEI RICORDI [2026]|": dubbed
+  "adriano|LA CITTÀ DEI VIVI|": dubbed
+  "adriano|MAMMINA - V.M.14|": dubbed
+  "adriano|NAZA|": dubbed
+  "adriano|ODISSEA [2026]|": dubbed
+  "adriano|PRIMETIME|": dubbed
+  "adriano|RESIDENT EVIL [2026] - V.M.14|": dubbed
+  "adriano|SE AMI QUALCUNO DILLO|": dubbed
+  "adriano|STREET FIGHTER|": dubbed
+  "adriano|THE INVITE | ORIGINAL VERSION|": vo
+  "adriano|TRAINSPOTTING | FILM IN INGLESE - V.M.14|": vo
+  "adriano|VERITY|": dubbed
+  "adriano|WHALEFALL - NELLA BALENA|": dubbed
+  "adriano|WILD HORSE NINE|": dubbed
+  "adriano|ZUSTISSIA|": dubbed
+  "atlantic|CARLO ACUTIS. IL GIOVANE SANTO|": dubbed
+  "atlantic|DIGGER [2026]|": dubbed
+  "atlantic|HEART OF THE BEAST - NEL PROFONDO SELVAGGIO|": dubbed
+  "atlantic|JE SÒ PAZZO|": dubbed
+  "atlantic|L'ESTRANEA|": dubbed
+  "atlantic|L'ISOLA DEI RICORDI [2026]|": dubbed
+  "atlantic|LA CITTÀ DEI VIVI|": dubbed
+  "atlantic|MAMMINA - V.M.14|": dubbed
+  "atlantic|NAZA|": dubbed
+  "atlantic|ODISSEA [2026]|": dubbed
+  "atlantic|PRIMETIME|": dubbed
+  "atlantic|SE AMI QUALCUNO DILLO|": dubbed
+  "atlantic|STREET FIGHTER|": dubbed
+  "atlantic|TRAINSPOTTING - V.M.14|": dubbed
+  "atlantic|WHALEFALL - NELLA BALENA|": dubbed
+  "casa-del-cinema|ALIEN VS. CIRO|": dubbed
+  "casa-del-cinema|AU HASARD BALTHAZAR (v.o.s.)|": vo
+  "casa-del-cinema|BILLY LIAR (v.o.s.)|": vo
+  "casa-del-cinema|BOOGIE NIGHTS (v.o.s.)|": vo
+  "casa-del-cinema|BREWSTER MCCLOUD (v.o.s.)|": vo
+  "casa-del-cinema|CAROLCO, UN RÊVE HOLLYWOODIEN (v.o.s.)|": vo
+  "casa-del-cinema|CET OBSCUR OBJET DU DÉSIR (v.o.s.)|": vo
+  "casa-del-cinema|CLOSELY WATCHED TRAINS (v.o.s.)|": vo
+  "casa-del-cinema|EL BRUTO (v.o.s.)|": vo
+  "casa-del-cinema|ENAMORADA (v.o.s.)|": vo
+  "casa-del-cinema|ENSAYO DE UN CRIMEN (v.o.s.)|": vo
+  "casa-del-cinema|FIGHT CLUB (v.o.s.)|": vo
+  "casa-del-cinema|FRANCESCO, GIULLARE DI DIO (v.o.s.)|": vo
+  "casa-del-cinema|IN BRUGES (v.o.s.)|": vo
+  "casa-del-cinema|LA ILUSIÓN VIAJA EN TRANVÍA (v.o.s.)|": vo
+  "casa-del-cinema|LA MIGLIORE OFFERTA (v.o.s.)|": vo
+  "casa-del-cinema|LAS AVENTURAS DE ROBINSON CRUSOE (v.o.s.)|": vo
+  "casa-del-cinema|LAURA BETTI, UNA DISPERATA VITALITÀ (v.o.s.)|": vo
+  "casa-del-cinema|LE CHARME DISCRET DE LA BOURGEOISIE (v.o.s.)|": vo
+  "casa-del-cinema|LES FILMS INACHEVÉS (v.o.s.)|": vo
+  "casa-del-cinema|LOS OLVIDADOS (v.o.s.)|": vo
+  "casa-del-cinema|MARCO BELLOCCHIO, LE CINÉMA DE LA RÉVOLTE À LA TENDRESSE (v.o.s.)|": vo
+  "casa-del-cinema|MARIE ANTOINETTE (v.o.s.)|": vo
+  "casa-del-cinema|MEPHISTO (v.o.s.)|": vo
+  "casa-del-cinema|MORIRE GRATIS (v.o.s.)|": vo
+  "casa-del-cinema|NAZARÍN (v.o.s.)|": vo
+  "casa-del-cinema|ROBERT RICHARDSON – THE WHITE DEVIL (v.o.s.)|": vo
+  "casa-del-cinema|ROBERTO PERPIGNANI – L’EMOZIONE DEI TAGLI IMPROPRI (v.o.s.)|": vo
+  "casa-del-cinema|SAYAT NOVA / NRAN GUYNE (v.o.s.)|": vo
+  "casa-del-cinema|SEMBRA MORTO… MA È SOLO SVENUTO (v.o.s.)|": vo
+  "casa-del-cinema|SEXY BEAST (v.o.s.)|": vo
+  "casa-del-cinema|SHAME (v.o.s.)|": vo
+  "casa-del-cinema|SUBIDA AL CIELO (v.o.s.)|": vo
+  "casa-del-cinema|SUSANA (v.o.s.)|": vo
+  "casa-del-cinema|THE BURMESE HARP (v.o.s.)|": vo
+  "casa-del-cinema|THE CIRCUS (v.o.s.)|": vo
+  "casa-del-cinema|THE LOBSTER (v.o.s.)|": vo
+  "casa-del-cinema|THE NIGHT OF THE HUNTER (v.o.s.)|": vo
+  "casa-del-cinema|THE WOMEN (v.o.s.)|": vo
+  "casa-del-cinema|THE ZONE OF INTEREST (v.o.s.)|": vo
+  "casa-del-cinema|TROUBLE IN PARADISE (v.o.s.)|": vo
+  "casa-del-cinema|UN CHIEN ANDALOU + L’ÂGE D’OR (v.o.s.)|": vo
+  "casa-del-cinema|ÉL (v.o.s.)|": vo
